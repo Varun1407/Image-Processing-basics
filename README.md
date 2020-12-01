@@ -4,11 +4,11 @@
 Canny edge detection is a technique to extract useful structural information from different vision objects and dramatically reduce the amount of data to be processed. It has been widely applied in various computer vision systems. Canny has found that the requirements for the application of edge detection on diverse vision systems are relatively similar.
 
 **Results**
+<Brain_Input src="https://github.com/VarunUmesh1407/Image-Processing-basics/blob/main/CannyDetector/images/brain_MR.jpg" width="100" height="100">
+<Brain_ouptut src="https://github.com/VarunUmesh1407/Image-Processing-basics/blob/main/CannyDetector/images/Brain_ouput.jpg" width="100" height="100">
 
-![Brain_Input](https://github.com/VarunUmesh1407/Image-Processing-basics/blob/main/CannyDetector/images/brain_MR.jpg){:height="36px" width="36px"}.          ![Brain_ouptut]()https://github.com/VarunUmesh1407/Image-Processing-basics/blob/main/CannyDetector/images/Brain_ouput.jpg)
 
-
-![Sunflower_Input](https://github.com/VarunUmesh1407/Image-Processing-basics/blob/main/CannyDetector/images/sunflower.jpg)     ![Sunflower_ouptut]()https://github.com/VarunUmesh1407/Image-Processing-basics/blob/main/CannyDetector/images/SunFlower_ouput.jpg){:height="36px" width="36px"}.
+![Sunflower_Input](https://github.com/VarunUmesh1407/Image-Processing-basics/blob/main/CannyDetector/images/sunflower.jpg)     ![Sunflower_ouptut](https://github.com/VarunUmesh1407/Image-Processing-basics/blob/main/CannyDetector/images/SunFlower_ouput.jpg){:height="36px" width="36px"}.
 
 
 
