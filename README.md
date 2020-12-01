@@ -5,7 +5,7 @@ Canny edge detection is a technique to extract useful structural information fro
 
 **Results**
 
-<img src="https://github.com/VarunUmesh1407/Image-Processing-basics/blob/main/CannyDetector/images/brain_MR.jpg" height="24" width="48">
+<brain src="https://github.com/VarunUmesh1407/Image-Processing-basics/blob/main/CannyDetector/images/brain_MR.jpg" height="240" width="120">
 
 
 
