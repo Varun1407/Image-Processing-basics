@@ -6,13 +6,13 @@ Canny edge detection is a technique to extract useful structural information fro
 **Results**
 
 <img src="https://github.com/VarunUmesh1407/Image-Processing-basics/blob/main/CannyDetector/images/brain_MR.jpg" height="120" width="120">        
-<img1 src="https://github.com/VarunUmesh1407/Image-Processing-basics/blob/main/CannyDetector/images/Brain_ouput.jpg" height="120" width="120">
+<img1 src="https://github.com/VarunUmesh1407/Image-Processing-basics/blob/main/CannyDetector/images/Brain_ouput.png" height="120" width="120">
 
 
 
 
 
-![Sunflower_Input](https://github.com/VarunUmesh1407/Image-Processing-basics/blob/main/CannyDetector/images/sunflower.jpg)     ![Sunflower_ouptut](https://github.com/VarunUmesh1407/Image-Processing-basics/blob/main/CannyDetector/images/SunFlower_ouput.jpg){:height="36px" width="36px"}
+![Sunflower_Input](https://github.com/VarunUmesh1407/Image-Processing-basics/blob/main/CannyDetector/images/sunflower.jpg)     ![Sunflower_ouptut](https://github.com/VarunUmesh1407/Image-Processing-basics/blob/main/CannyDetector/images/SunFlower_ouput.png){:height="36px" width="36px"}
 
 
 
@@ -31,4 +31,5 @@ The Sobel filter is very commonly used in edge detection and in finding patterns
 
 **Results**
 
-![Lane_Input](https://github.com/VarunUmesh1407/Image-Processing-basics/blob/main/Finding%20Edges/images/curved_lane.jpg)     ![Lane_output](https://github.com/VarunUmesh1407/Image-Processing-basics/blob/main/Finding%20Edges/images/Lane_output.jpg)
+![Lane_Input](https://github.com/VarunUmesh1407/Image-Processing-basics/blob/main/Finding%20Edges/images/curved_lane.jpg)     
+![Lane_output](https://github.com/VarunUmesh1407/Image-Processing-basics/blob/main/Finding%20Edges/images/Lane_output.png)
